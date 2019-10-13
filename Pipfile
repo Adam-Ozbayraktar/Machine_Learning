@@ -7,6 +7,11 @@ verify_ssl = true
 
 [packages]
 jupyter = "*"
+scipy = "*"
+numpy = "*"
+matplotlib = "*"
+pandas = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3.7"
