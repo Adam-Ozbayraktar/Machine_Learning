@@ -13,6 +13,8 @@ matplotlib = "*"
 pandas = "*"
 sklearn = "*"
 nltk = "*"
+seaborn = "*"
+jupyter-contrib-nbextensions = "*"
 
 [requires]
 python_version = "3.7"
