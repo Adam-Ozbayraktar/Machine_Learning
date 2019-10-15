@@ -15,6 +15,7 @@ sklearn = "*"
 nltk = "*"
 seaborn = "*"
 jupyter-contrib-nbextensions = "*"
+pandoc = "*"
 
 [requires]
 python_version = "3.7"
